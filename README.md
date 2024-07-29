@@ -36,6 +36,4 @@ You can download the /dist/main.exe file and run it to use the Contact Manager.
 - `main.py`: Contains the main application code for the contact manger.
 
   
-![contact manger](https://github.com/raneshkumar2809/Prasunet_SD_03/blob/main/)
-
-![sudoko_solver](https://github.com/raneshkumar2809/Prasunet_SD_04/blob/main/Pic-2.png)
+![contact manger](https://github.com/raneshkumar2809/Prasunet_SD_03/main/Screenshot 2024-07-25 065803.png)
